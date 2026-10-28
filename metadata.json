@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix VAYU-OPS | Dynamic Air Operations \u0026 Resource Optimisation",
+  "description": "AI-assisted command decision-support system for synthetic air tasking, multi-source data fusion, constraint optimisation, and human-in-the-loop dynamic re-planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
